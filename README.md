@@ -1,2 +1,2 @@
 # mybitmap
-改造roaringbitmap，适应imei存取
+改造roaringbitmap，适应imei存取，主要对Container进行改造，使原来16bit支持32bit
